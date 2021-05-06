@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.0"
     },
-    "description": "Test",
+    "description": "Preventing Dependency Confusion in PHP with Composer",
     "type": "magento2-module",
     "version": "0.0.2",
     "license": [
