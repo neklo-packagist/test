@@ -8,6 +8,9 @@
             "registration.php"
         ]
     },
+    "require": {
+        "php": ">=7.0"
+    },
     "description": "Test",
     "type": "magento2-module",
     "version": "0.0.1",
