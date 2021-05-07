@@ -13,7 +13,7 @@
     },
     "description": "Preventing Dependency Confusion in PHP with Composer",
     "type": "magento2-module",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
